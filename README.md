@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbaobelief&layout=compact&hide=css,html)](https://github.com/bbaobelief/bbaobelief)
+
 <a href="https://github.com/bbaobelief/gecko">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bbaobelief&repo=gecko" />
 </a>
