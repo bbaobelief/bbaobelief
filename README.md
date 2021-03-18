@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/bbaobelief/gecko">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bbaobelief&repo=gecko" />
 </a>
-
 <a href="https://github.com/bbaobelief/apiserver">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bbaobelief&repo=apiserver" />
 </a>
@@ -27,7 +26,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/bbaobelief/deep-learning">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bbaobelief&repo=deep-learning" />
 </a>
-
 <a href="https://github.com/bbaobelief/aio_proxy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bbaobelief&repo=aio_proxy" />
 </a>
