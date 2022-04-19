@@ -16,19 +16,16 @@ Here are some ideas to get you started:
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbaobelief&layout=compact&hide=css,html)](https://github.com/bbaobelief/bbaobelief)
 -->
-<br />
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=bbaobelief&show_icons=true&icon_color=0366d6&text_color=2ea44f&bg_color=ffffff&hide_title=true" />
 
 <a href="https://github.com/bbaobelief/gecko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bbaobelief&repo=gecko" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=bbaobelief&repo=gecko" />
 </a>
 
 <a href="https://github.com/bbaobelief/apiserver">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bbaobelief&repo=apiserver" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=bbaobelief&repo=apiserver" />
 </a>
-
-
 <a href="https://github.com/bbaobelief/deep-learning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bbaobelief&repo=deep-learning" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=bbaobelief&repo=deep-learning" />
 </a>
-<br />
